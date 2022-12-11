@@ -12,5 +12,5 @@ pygame = "*"
 python_version = "3.10"
 python_full_version = "3.10.8"
 
-[scirpts]
+[scripts]
 play = "python ./src/main.py"
